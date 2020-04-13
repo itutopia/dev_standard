@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4d22e14-ac01-4396-a14b-b9837d178169" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2.Mysql数据库约定规范" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.系统异常及状态码约定规范" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.数据库约定规范-Mysql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.状态码约定规范" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.Gitflow工作流约定规范" beforeDir="false" afterPath="$PROJECT_DIR$/6.Gitflow工作流约定规范" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\xingangnet_workspace\standard\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aT0KvU2YXd3QUvXWYK7cmk8HeS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4d22e14-ac01-4396-a14b-b9837d178169" name="Default Changelist" comment="" />
+      <created>1586744215378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586744215378</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1586745520711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586745520711</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <created>1586745590143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586745590143</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add">
+      <created>1586747068090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586747068090</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586750769668">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="386" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1304.768@0.0.1304.768" timestamp="1586750769668" />
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1586747067587">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1304.768@0.0.1304.768" timestamp="1586747067587" />
+    <state x="244" y="120" key="Vcs.Push.Dialog.v2" timestamp="1586747086414">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="244" y="120" key="Vcs.Push.Dialog.v2/0.0.1304.768@0.0.1304.768" timestamp="1586747086414" />
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586748524089">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1586748524089" />
+  </component>
+</project>
