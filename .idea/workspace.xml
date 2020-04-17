@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4d22e14-ac01-4396-a14b-b9837d178169" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.Mysql数据库约定规范" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.系统异常及状态码约定规范" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.数据库约定规范-Mysql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.状态码约定规范" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.Gitflow工作流约定规范" beforeDir="false" afterPath="$PROJECT_DIR$/6.Gitflow工作流约定规范" afterDir="false" />
+    <list default="true" id="c4d22e14-ac01-4396-a14b-b9837d178169" name="Default Changelist" comment="add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/docment.md" beforeDir="false" afterPath="$PROJECT_DIR$/document/docment.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +21,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1aT0KvU2YXd3QUvXWYK7cmk8HeS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -78,7 +78,126 @@
       <option name="project" value="LOCAL" />
       <updated>1586747068090</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add">
+      <created>1586750938786</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586750938786</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add">
+      <created>1586753646615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586753646615</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add">
+      <created>1586754200954</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586754200954</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add">
+      <created>1586755081207</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586755081207</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add">
+      <created>1586755167037</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586755167037</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add">
+      <created>1586755557782</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586755557782</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add">
+      <created>1586756561878</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586756561878</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add">
+      <created>1586756620324</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586756620324</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add">
+      <created>1586761493741</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1586761493741</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add">
+      <created>1586922679717</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586922679717</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1587092312191</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587092312191</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1587092939754</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587092939754</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1587093238301</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587093238301</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <created>1587093578085</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1587093578085</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add">
+      <created>1587093785024</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1587093785024</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add">
+      <created>1587094703871</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587094703872</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add">
+      <created>1587095461463</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1587095461463</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,13 +205,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
     <MESSAGE value="add" />
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
@@ -101,17 +223,37 @@
       <screen x="0" y="0" width="1304" height="768" />
     </state>
     <state x="386" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1304.768@0.0.1304.768" timestamp="1586750769668" />
-    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1586747067587">
+    <state x="303" y="0" key="CommitChangelistDialog2" timestamp="1587095460694">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1304.768@0.0.1304.768" timestamp="1586747067587" />
-    <state x="244" y="120" key="Vcs.Push.Dialog.v2" timestamp="1586747086414">
+    <state x="303" y="0" key="CommitChangelistDialog2/0.0.1304.768@0.0.1304.768" timestamp="1587095460694" />
+    <state x="427" y="126" key="FileChooserDialogImpl" timestamp="1586761519185">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="244" y="120" key="Vcs.Push.Dialog.v2/0.0.1304.768@0.0.1304.768" timestamp="1586747086414" />
-    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586748524089">
+    <state x="427" y="126" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1586761519185" />
+    <state x="118" y="49" key="MergeDialog" timestamp="1586753676933">
       <screen x="0" y="0" width="1304" height="768" />
     </state>
-    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1586748524089" />
+    <state x="118" y="49" key="MergeDialog/0.0.1304.768@0.0.1304.768" timestamp="1586753676933" />
+    <state x="356" y="85" key="MultipleFileMergeDialog" timestamp="1586753676941">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="356" y="85" key="MultipleFileMergeDialog/0.0.1304.768@0.0.1304.768" timestamp="1586753676941" />
+    <state x="244" y="120" key="Vcs.Push.Dialog.v2" timestamp="1587095468688">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="244" y="120" key="Vcs.Push.Dialog.v2/0.0.1304.768@0.0.1304.768" timestamp="1587095468688" />
+    <state x="448" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586922386463">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="448" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1304.768@0.0.1304.768" timestamp="1586922386463" />
+    <state x="303" y="166" key="run.anything.popup" timestamp="1586922552252">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="303" y="166" key="run.anything.popup/0.0.1304.768@0.0.1304.768" timestamp="1586922552252" />
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587094067430">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="315" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1304.768@0.0.1304.768" timestamp="1587094067430" />
   </component>
 </project>
